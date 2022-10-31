@@ -1,0 +1,4 @@
+.vercel
+venv
+vercel.json
+__pycache__
